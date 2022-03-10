@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## THIS IS A WEBSITE
 
 You can use the [editor on GitHub](https://github.com/connieting/connieting.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
