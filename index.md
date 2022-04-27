@@ -1,3 +1,5 @@
+[About Me](about.md) [Publications](publications.md) [CV](cv.pdf)
+
 ## THIS IS A WEBSITE TEST
 
 {% include icon.html id="twitter" title="twitter" %}
