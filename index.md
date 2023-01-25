@@ -1,6 +1,6 @@
 ---
 title:
-feature_text:
+feature_text: ### Connie Ting
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt:
 aside: false
