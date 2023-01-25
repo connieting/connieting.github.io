@@ -96,7 +96,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Connie Ting" # Site name or title, also used in jekyll-seo-tag
-logo: "/imgs/guava.jpeg" # Site logo, also used in jekyll-seo-tag
+logo: "/imgs/me_photo.jpeg" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://connieting.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -111,7 +111,9 @@ email: "connie.ting@mail.mcgill.ca"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
-favicons: '/imgs/guava.jpeg' # Favicons are also used in the manifest file. Syntax is 'size: path'
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+10: '/imgs/guava.jpeg'
+16: '/imgs/guava.jpeg'
 
 # 9. Site navigation
 navigation_header:
@@ -132,8 +134,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/connietingg
   LinkedIn: https://www.linkedin.com/in/connie-ting-50898a66/
   GitHub: https://github.com/connieting
-  link: https://darn.es
-  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
