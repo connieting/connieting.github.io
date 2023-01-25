@@ -6,8 +6,4 @@ excerpt:
 aside: false
 ---
 
-### Welcome
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
+I am a PhD candidate in Linguistics at McGill University in Montreal, QC. My main research interests are in phonetics, speech perception, speech production, and language acquisition. 
