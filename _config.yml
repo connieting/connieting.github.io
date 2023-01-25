@@ -42,7 +42,7 @@ plugins:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Connie Ting" # Site name or title, also used in jekyll-seo-tag
-logo: "/imgs/me_photo.jpeg" # Site logo, also used in jekyll-seo-tag
+logo: "/imgs/me_photo2.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://connieting.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
