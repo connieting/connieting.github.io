@@ -1,4 +1,4 @@
-<p style='text-align: right;'>[Home](home.md) [Publications](publications.md) [CV](cv.pdf) [Presentations](presentations.md) {% include icon.html id="twitter" title="twitter" %}</p>
+[Home](home.md) [Publications](publications.md) [CV](cv.pdf) [Presentations](presentations.md) {% include icon.html id="twitter" title="twitter" %}
 
 Connie Ting
 
