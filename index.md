@@ -1,10 +1,9 @@
 ---
-title: "Hello"
-feature_text: |
-  Connie Ting
+title:
+feature_text:
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: ""
-aside: true
+excerpt:
+aside: false
 ---
 
 ### Welcome
