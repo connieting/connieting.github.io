@@ -1,9 +1,9 @@
 ---
-title: Home
+title:
 feature_text: |
   Connie Ting
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "Connie Ting"
+excerpt: ""
 aside: true
 ---
 
