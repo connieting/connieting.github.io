@@ -1,3 +1,1 @@
-publications
-
-these are publications
+List of publications
