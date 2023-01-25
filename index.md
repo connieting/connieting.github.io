@@ -1,12 +1,9 @@
-[About Me](about.md) [Publications](publications.md) [CV](cv.pdf)
+[Home](home.md) [Publications](publications.md) [CV](cv.pdf) [Presentations](presentations.md) {% include icon.html id="twitter" title="twitter" %}
+
 
 ## THIS IS A WEBSITE TEST
 
-{% include icon.html id="twitter" title="twitter" %}
-
-You can use the [editor on GitHub](https://github.com/connieting/connieting.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is where information about me will go
 
 ### Markdown
 
