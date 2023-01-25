@@ -1,6 +1,4 @@
-[Home](home.md) [Publications](publications.md) [CV](cv.pdf) [Presentations](presentations.md) {% include icon.html id="twitter" title="twitter" %}
-
-Connie Ting
+# Connie Ting
 
 ## THIS IS A WEBSITE TEST
 
