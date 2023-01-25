@@ -111,15 +111,7 @@ email: "connie.ting@mail.mcgill.ca"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
-favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/imgs/guava.jpeg'
-  32: '/imgs/guava.jpeg'
-  96: '/imgs/guava.jpeg'
-  120: '/imgs/guava.jpeg'
-  144: '/imgs/guava.jpeg'
-  180: '/imgs/guava.jpeg'
-  512: '/imgs/guava.jpeg'
-  1024: '/imgs/guava.jpeg'
+favicons: '/imgs/guava.jpeg' # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
