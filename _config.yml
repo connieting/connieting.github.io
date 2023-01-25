@@ -116,6 +116,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 10: '/imgs/guava.jpeg'
 16: '/imgs/guava.jpeg'
 
+avatar: "/imgs/guava.jpeg"
+
 # 9. Site navigation
 navigation_header:
 - title: Home
