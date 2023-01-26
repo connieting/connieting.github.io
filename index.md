@@ -1,6 +1,7 @@
 ---
 title:
-feature_text: "Connie Ting"
+feature_text:
+  ## Connie Ting
 feature_image:
 excerpt:
 aside: false
