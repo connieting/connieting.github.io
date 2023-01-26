@@ -1,7 +1,7 @@
 ---
 title:
 feature_text: |
-  ## Connie Ting
+  ##  <font color='#000000'> Connie Ting </font>
 feature_image:
 excerpt:
 aside: false
