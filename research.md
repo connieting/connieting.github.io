@@ -6,7 +6,6 @@ feature_image:
 excerpt:
 ---
 
- <font color='#004080'>
 
 ## Publications
 
@@ -20,4 +19,4 @@ Connie Ting. Malagasy N-bonding: A licensing approach. **Glossa** 8(1). doi: htt
 ### *2022*
   
 Investigating Universality of Intrinsic F0 Effects (with Morgan Sonderegger and Meghan Clayards). Talk at LabPhon18, Online. June 2022.
-</font>
+
