@@ -122,12 +122,14 @@ avatar: "/imgs/guava.jpeg"
 navigation_header:
 - title: Home
   url: /
-- title: Publications
-  url: /publications/
-- title: Presentations
-  url: /presentations/
-- title: CV
-  url: /cv.pdf/
+- title: Research
+  url: /research/
+#- title: Publications
+#  url: /publications/
+#- title: Presentations
+#  url: /presentations/
+#- title: CV
+#  url: /cv.pdf/
 
 navigation_footer:
 - title: Alembic by David Darnes
