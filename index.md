@@ -1,6 +1,6 @@
 ---
 title:
-feature_text:
+feature_text: |
   ## Connie Ting
 feature_image:
 excerpt:
