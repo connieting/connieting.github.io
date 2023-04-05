@@ -131,9 +131,9 @@ navigation_header:
 #- title: CV
 #  url: /cv.pdf/
 
-#navigation_footer:
-#- title: Alembic by David Darnes
-#  url: https://darn.es
+navigation_footer:
+- title:
+  url:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/connietingg
