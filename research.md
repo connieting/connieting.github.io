@@ -1,5 +1,5 @@
 ---
-title:
+title: Research
 feature_text: |
   ##  <font color='#000000'> Research </font>
 feature_image:
