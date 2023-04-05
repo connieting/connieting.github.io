@@ -7,4 +7,6 @@ excerpt:
 aside: true
 ---
 
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+
 I am a PhD candidate in Linguistics at McGill University in Montreal, QC. My main research interests are in phonetics, speech perception, speech production, and language acquisition. 
