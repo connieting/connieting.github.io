@@ -151,14 +151,14 @@ body {
     max-width: 34%;
     margin-right: 4%;
     @include flex(1, 0, auto);
-    opacity: 0.5;
+    opacity: 1;
     transition: opacity .1s;
     .section {
       position: sticky;
       top: 0;
     }
     &--right {
-      margin-left: 4%;
+      margin-left: 1%;
       margin-right: 0;
       order: -1;
     }
