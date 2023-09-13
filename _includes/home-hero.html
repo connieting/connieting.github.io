@@ -47,19 +47,20 @@
             {% if email != '' %}
               <a href="mailto:{{ site.email }}"><button class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-lg fa-fw""></i></button></a>
             {% endif %}
-
+            
+              <p class="text-center">
+                {% if site.enable_contact == true %}
+                {% include contact.html %}
+                {% include contact-modal.html %}
+                {% endif %}
+              </p>
+            
           </div>
           
-          <p class="text-center">
-            {% if site.enable_contact == true %}
-            {% include contact.html %}
-            {% include contact-modal.html %}
-            {% endif %}
-          </p>
           
-      </div>
+        </div>
 
-    </div>
+      </div>
 
     </div>
 
