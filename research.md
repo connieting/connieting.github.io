@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Papers
+### Papers
 
 Connie Ting and Yoonjung Kang. (2023). [The effect of habitual speech rate on speaker-specific processing in English stop voicing perception](https://journals.sagepub.com/doi/10.1177/00238309231188078). _Language and Speech_.
 
@@ -12,7 +12,7 @@ Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glos
 
 
 
-## Presentations
+### Presentations
 
 Tracking speaker-specific speech rate: habitual vs local influences on English stop voicing perception (with Yoonjung Kang). Poster at ICPhS23, Prague, Czech Republic. August 2023.
 
