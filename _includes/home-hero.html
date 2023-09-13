@@ -15,9 +15,7 @@
           <br>
           <br>
           
-          <div class="image">
-          <img src="/imgs/me_photo.jpeg" style="float:right;width:200px;height:350px;padding:50px,50px,50px;">
-          </div>
+          <div class="col-8">
           
           {% if site.description != '' or site.enable_contact == true %}
           <p class="text-center">
@@ -27,6 +25,14 @@
           </p>
           {% endif %}
 
+          </div>
+
+          <div class="col">
+            <div class="image">
+            <img src="/imgs/me_photo.jpeg" style="float:right;width:200px;height:350px;padding:50px,50px,50px;">
+            </div>
+          </div>
+              
           <div class="hero-buttons">
           
             {% if site.twitter_username != '' %}
@@ -51,13 +57,13 @@
             {% endif %}
           </p>
           
-        </div>
-
       </div>
 
       <a class="section-jump text-center" href="#portfolio">
         <i class="fa fa-angle-down fa-3x"></i>
       </a>
+
+      </div>
 
     </div>
 
