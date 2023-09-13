@@ -1,205 +1,29 @@
 ---
 layout: inner
-title: About
-permalink: /about/
----
-## Markdown
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](/index.html).
-
-There should be whitespace between paragraphs.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+title: Research
+permalink: /research/
 ---
 
-### Here is an unordered list:
+## Papers
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Connie Ting and Yoonjung Kang. (2023). [The effect of habitual speech rate on speaker-specific processing in English stop voicing perception](https://journals.sagepub.com/doi/10.1177/00238309231188078). _Language and Speech_.
 
-### And an ordered list:
+Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glossa-journal.org/article/id/6386/). **Glossa** 8(1). doi: https://doi.org/10.16995/glossa.6386
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
-### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## Presentations
 
-### Wide image
+Tracking speaker-specific speech rate: habitual vs local influences on English stop voicing perception (with Yoonjung Kang). Poster at ICPhS23, Prague, Czech Republic. August 2023.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Tracking speaker-specific speech rate: habitual vs. local influences on English stop voicing perception (with Yoonjung Kang). Talk at MOTH Phonology/Phonetics Workshop, Hamilton, Ontario. March 2023.
 
-### Definition lists can be used with HTML syntax.
+Investigating Universality of Intrinsic F0 Effects (with Morgan Sonderegger and Meghan Clayards). Talk at LabPhon18, Online. June 2022.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Investigating universality of consonant and vowel intrinsic F0 effects (with Meghan Clayards and Morgan Sonderegger). Poster at MOT Phonology/Phonetics Workshop, Online. March 2022.
 
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
+Malagasy N-bonding: A licensing approach. Talk at AFLA28, Online. May 2021.
 
-{% highlight txt %}
-The final element.
-{% endhighlight %}
+Capturing `exempt' anaphors with local binding. Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. August 2020.
 
----
-
-## Syntax highlighting
-
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
----
-
-#### Bash
-
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
-
-#### HTML
-
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
-
- </body>
-</html>
-{% endhighlight %}
-
-#### CSS
-
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
-
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
-
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+The effect of habitual speech rate on speaker-specific processing in English stop voicing perception (with Yoonjung Kang). Poster at ICPhS19, Melbourne, Australia. August 2019.
