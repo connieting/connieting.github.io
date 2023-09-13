@@ -3,33 +3,31 @@
   <div class="row">
 
     <div class="col-md-12">
+          <br>
+          <br>
           {% if site.title != '' %}
           <h1 class="text-center">{{site.title}}</h1>
           {% endif %}
-
           <br>
           <br>
-    </div>  
-  </div>
-  
-  <div class="row">
       
-    <div class="col-8">
+      <div class="row">
+        <div class="col-8">
           {% if site.description != '' or site.enable_contact == true %}
-          <p class="text-center">
-            {% if site.description != '' %}
-            {{site.description}}
-            {% endif %}
-          </p>
+            <p class="text-center">
+              {% if site.description != '' %}
+              {{site.description}}
+              {% endif %}
+            </p>
           {% endif %}
-    </div>
-
-    <div class="col">
+        </div>
+        
+        <div class="col-4">
           <div class="image">
           <img src="/imgs/me_photo.jpeg" style="float:right;width:200px;height:350px;padding:50px,50px,50px;">
           </div>
-    </div>
-
+        </div>
+      </div>
   </div>
 
   <div class="row">
