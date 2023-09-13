@@ -8,7 +8,7 @@ permalink: /research/
 
 Connie Ting and Yoonjung Kang. (2023). [The effect of habitual speech rate on speaker-specific processing in English stop voicing perception](https://journals.sagepub.com/doi/10.1177/00238309231188078). _Language and Speech_.
 
-Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glossa-journal.org/article/id/6386/). **Glossa** 8(1). doi: https://doi.org/10.16995/glossa.6386
+Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glossa-journal.org/article/id/6386/). _Glossa 8_(1). doi: https://doi.org/10.16995/glossa.6386
 
 
 
