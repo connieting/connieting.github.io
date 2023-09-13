@@ -21,22 +21,10 @@
             {% if site.description != '' %}
             {{site.description}}
             {% endif %}
-
-            {% if site.enable_contact == true %}
-            {% include contact.html %}
-            {% include contact-modal.html %}
-            {% endif %}
           </p>
           {% endif %}
 
           <div class="hero-buttons">
-          
-          <p class="text-center">
-            {% if site.enable_contact == true %}
-            {% include contact.html %}
-            {% include contact-modal.html %}
-            {% endif %}
-          </p>
           
             {% if site.twitter_username != '' %}
               <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg fa-fw"></i></button></a>
@@ -52,7 +40,14 @@
             {% endif %}
 
           </div>
-
+          
+          <p class="text-center">
+            {% if site.enable_contact == true %}
+            {% include contact.html %}
+            {% include contact-modal.html %}
+            {% endif %}
+          </p>
+          
         </div>
 
       </div>
