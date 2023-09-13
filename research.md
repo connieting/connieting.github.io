@@ -1,7 +1,7 @@
 ---
 title: Research
 feature_text: |
-  ##  <font color='#000000'> Research </font>
+  ##  <font color='#07F5D8'> Research </font>
 feature_image:
 excerpt:
 ---
