@@ -11,13 +11,15 @@
           <br>
           <br>
       
-      <div class="row">
+      <div class="row align-items-center">
         <div class="col-4">
           {% if site.description != '' or site.enable_contact == true %}
             <p class="text-center">
               {% if site.description != '' %}
               {{site.description}}
               {% endif %}
+              <br>
+              <br>
               {% if site.thesis != '' %}
               {{site.thesis}}
               {% endif %}
