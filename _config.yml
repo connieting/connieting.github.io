@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Connie Ting"
 email: 'connie.ting@mail.mcgill.ca'
-description: "I'm a PhD candidate at McGill University, Montreal, Canada. My main research interests lie in phonetics, speech perception, speech perception, language change and acquisition."
+description: "I'm a PhD candidate at McGill University, Montreal, Canada. My main research interests lie in phonetics, speech perception, speech production, language change and acquisition."
+thesis: "I am currently working on my dissertation, which examines vowel and consonant intrinsic F0 effects across languages through corpus analysis and experimental methods."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://connieting.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'connietingg'
