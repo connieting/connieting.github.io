@@ -93,7 +93,7 @@ button.btn, input.btn {
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {
-    padding: 10;
+    padding: 0;
   }
 }
 
@@ -124,7 +124,7 @@ button.btn, input.btn {
 
 .hero-content {
   width: 60%;
-  margin: 0 auto;
+  margin: 10em;
   display: table;
   @include bp-medium {
     width: 100%;
