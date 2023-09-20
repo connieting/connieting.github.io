@@ -80,7 +80,7 @@ button.btn, input.btn {
     box-shadow: 0 1px 0 #b0c5d2;
   }
   i {
-    padding-right: 0em;
+    padding-right: 0.5em;
   }
   @include bp-xsmall {
     @include horizontal-align;
