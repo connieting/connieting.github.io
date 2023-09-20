@@ -12,17 +12,6 @@
             <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
             {% endif %}
 
-            <p>
-              {% if site.description != '' %}
-              {{site.description}}
-              {% endif %}
-                  <br>
-                  <br>
-              {% if site.thesis != '' %}
-              {{site.thesis}}
-              {% endif %}
-            </p>
-
             {% for post in paginator.posts %}
               <div class="wow fadeIn">
               {% if post.position == "left" %}
@@ -35,6 +24,17 @@
               </div>
             {% endfor %}
 
+            <p>
+              {% if site.description != '' %}
+              {{site.description}}
+              {% endif %}
+                  <br>
+                  <br>
+              {% if site.thesis != '' %}
+              {{site.thesis}}
+              {% endif %}
+            </p>
+              
             {% include pagination.html %}
             {% include home-hero.html %}
             <div class="break"></div>
