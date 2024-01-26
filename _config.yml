@@ -101,3 +101,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/research', text: 'Research' }
   - { url: '/teaching', text: 'Teaching' }
+  - { url: '/cv', text: 'CV' }
