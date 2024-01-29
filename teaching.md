@@ -11,6 +11,7 @@ LING330 Phonetics (Fall 2021)
 
 ### Teaching Assistant
 LING331 Phonology (Fall 2022) <br>
+LING330 Phonetics (Winter 2022, Remote learning assistant) <br>
 LING330 Phonetics (Winter 2021) <br>
 LING330 Phonetics (Fall 2020) <br> 
 LING350 Linguistic Aspects of Biligualism (Winter 2020, Grader) <br>
