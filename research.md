@@ -13,8 +13,8 @@ Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glos
 
 ### Presentations
 
-- **Tracking speaker-specific speech rate: habitual vs local influences on English stop voicing perception** (with Yoonjung Kang)
-  [Poster](/imgs/guava.jpeg)
+**Tracking speaker-specific speech rate: habitual vs local influences on English stop voicing perception** (with Yoonjung Kang)
+  [Poster](/imgs/guava.jpeg) \
   Poster at ICPhS23, Prague, Czech Republic
   August 2023
 
