@@ -13,19 +13,37 @@ Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glos
 
 ### Presentations
 
-**Tracking speaker-specific speech rate: habitual vs local influences on English stop voicing perception** (with Yoonjung Kang)
+- **Tracking speaker-specific speech rate: habitual vs local influences on English stop voicing perception** (with Yoonjung Kang) \
   [Poster](/imgs/guava.jpeg) \
-  Poster at ICPhS23, Prague, Czech Republic
+  Poster at ICPhS23, Prague, Czech Republic \
   August 2023
 
-Tracking speaker-specific speech rate: habitual vs. local influences on English stop voicing perception (with Yoonjung Kang). Talk at MOTH Phonology/Phonetics Workshop, Hamilton, Ontario. March 2023.
+- **Tracking speaker-specific speech rate: habitual vs. local influences on English stop voicing perception** (with Yoonjung Kang) \
+  [Slides](/imgs/guava.jpeg) \
+  Talk at MOTH Phonology/Phonetics Workshop, Hamilton, Ontario \
+  March 2023
 
-Investigating Universality of Intrinsic F0 Effects (with Morgan Sonderegger and Meghan Clayards). Talk at LabPhon18, Online. June 2022.
+- **Investigating Universality of Intrinsic F0 Effects** (with Morgan Sonderegger and Meghan Clayards) \
+  [Slides](/imgs/guava.jpeg) [Video] \
+  Talk at LabPhon18, Online \
+  June 2022
 
-Investigating universality of consonant and vowel intrinsic F0 effects (with Meghan Clayards and Morgan Sonderegger). Poster at MOT Phonology/Phonetics Workshop, Online. March 2022.
+- **Investigating universality of consonant and vowel intrinsic F0 effects** (with Meghan Clayards and Morgan Sonderegger) \
+  [Poster](/imgs/guava.jpeg) \
+  Poster at MOT Phonology/Phonetics Workshop, Online \
+  March 2022
 
-Malagasy N-bonding: A licensing approach. Talk at AFLA28, Online. May 2021.
+- **Malagasy N-bonding: A licensing approach** \
+  [Handout](/imgs/guava.jpeg) \
+  Talk at AFLA28, Online \
+  May 2021
 
-Capturing `exempt' anaphors with local binding. Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. August 2020.
+- **Capturing `exempt' anaphors with local binding** \
+  [Slides](/imgs/guava.jpeg) \
+  Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. \
+  August 2020
 
-The effect of habitual speech rate on speaker-specific processing in English stop voicing perception (with Yoonjung Kang). Poster at ICPhS19, Melbourne, Australia. August 2019.
+- **The effect of habitual speech rate on speaker-specific processing in English stop voicing perception** (with Yoonjung Kang) \
+  [Poster](/imgs/guava.jpeg) \
+  Poster at ICPhS19, Melbourne, Australia
+  August 2019
