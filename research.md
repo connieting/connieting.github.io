@@ -20,16 +20,16 @@ Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glos
   Talk at MOTH Phonology/Phonetics Workshop, Hamilton, Ontario. March 2023. [Slides](/imgs/guava.jpeg)
 
 - **Investigating Universality of Intrinsic F0 Effects** (with Morgan Sonderegger and Meghan Clayards).\
-  Talk at LabPhon18, Online. June 2022. [Slides](/imgs/guava.jpeg) [Video](/imgs/guava.jpeg) 
+  Talk at LabPhon18, Online. June 2022. [Slides](LabPhon_IF0.pdf) [Video](/imgs/guava.jpeg) 
 
 - **Investigating universality of consonant and vowel intrinsic F0 effects** (with Meghan Clayards and Morgan Sonderegger).\
   Poster at MOT Phonology/Phonetics Workshop, Online. March 2022. [Poster](/imgs/guava.jpeg)
 
 - **Malagasy N-bonding: A licensing approach**.\
-  Talk at AFLA28, Online. May 2021.  [Handout](/imgs/guava.jpeg)
+  Talk at AFLA28, Online. May 2021.  [Handout](AFLA_handout.pdf)
 
 - **Capturing `exempt' anaphors with local binding**.\
-  Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. August 2020. [Slides](/imgs/guava.jpeg)
+  Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. August 2020. [Slides](MOTH2020_handout.pdf)
 
 - **The effect of habitual speech rate on speaker-specific processing in English stop voicing perception** (with Yoonjung Kang).\
-  Poster at ICPhS19, Melbourne, Australia. August 2019. [Poster](/imgs/guava.jpeg)
+  Poster at ICPhS19, Melbourne, Australia. August 2019. [Poster](ICPhS19_poster.pdf) [Proceedings Paper](ICPhS19_VOT.pdf)
