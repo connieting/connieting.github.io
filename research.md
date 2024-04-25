@@ -14,16 +14,16 @@ Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glos
 ### Presentations <br>
 
 - **Tracking speaker-specific speech rate: habitual vs local influences on English stop voicing perception** (with Yoonjung Kang).\
-  Poster at ICPhS23, Prague, Czech Republic. August 2023. [Poster](/imgs/guava.jpeg)
+  Poster at ICPhS23, Prague, Czech Republic. August 2023. [Poster](ICPhS23_Eng_SpeechRate) [Proceedings Paper](ICPhS23.pdf)
 
 - **Tracking speaker-specific speech rate: habitual vs. local influences on English stop voicing perception** (with Yoonjung Kang).\
-  Talk at MOTH Phonology/Phonetics Workshop, Hamilton, Ontario. March 2023. [Slides](/imgs/guava.jpeg)
+  Talk at MOTH Phonology/Phonetics Workshop, Hamilton, Ontario. March 2023. [Slides]()
 
 - **Investigating Universality of Intrinsic F0 Effects** (with Morgan Sonderegger and Meghan Clayards).\
-  Talk at LabPhon18, Online. June 2022. [Slides](LabPhon_IF0.pdf) [Video](/imgs/guava.jpeg) 
+  Talk at LabPhon18, Online. June 2022. [Slides](LabPhon_IF0.pdf) [Video]() 
 
 - **Investigating universality of consonant and vowel intrinsic F0 effects** (with Meghan Clayards and Morgan Sonderegger).\
-  Poster at MOT Phonology/Phonetics Workshop, Online. March 2022. [Poster](/imgs/guava.jpeg)
+  Poster at MOT Phonology/Phonetics Workshop, Online. March 2022. [Poster](MOT_Universal_IF0)
 
 - **Malagasy N-bonding: A licensing approach**.\
   Talk at AFLA28, Online. May 2021.  [Handout](AFLA_handout.pdf)
