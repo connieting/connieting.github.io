@@ -29,7 +29,7 @@ Connie Ting. (2023). [Malagasy N-bonding: A licensing approach](https://www.glos
   Talk at AFLA28, Online. May 2021.  [Handout](AFLA_handout.pdf)
 
 - **Capturing `exempt' anaphors with local binding**.\
-  Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. August 2020. [Slides](MOTH2020_handout.pdf)
+  Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. August 2020. [Handout](MOTH2020_handout.pdf)
 
 - **The effect of habitual speech rate on speaker-specific processing in English stop voicing perception** (with Yoonjung Kang).\
   Poster at ICPhS19, Melbourne, Australia. August 2019. [Poster](ICPhS19_poster.pdf) [Proceedings Paper](ICPhS19_VOT.pdf)
