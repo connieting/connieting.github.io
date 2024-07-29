@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Papers
 
-- Connie Ting, Meghan Clayards, Morgan Sonderegger, and Michael McAuliffe. (Accepted). The cross-linguistic distribution of vowel and consonant intrinsic F0 effects. _Language_. [[Preprint]](https://osf.io/preprints/psyarxiv/64nhs){:target="_blank"} [[OSF]]{:target="_blank"}(https://osf.io/ehs6d/)
+- Connie Ting, Meghan Clayards, Morgan Sonderegger, and Michael McAuliffe. (Accepted). The cross-linguistic distribution of vowel and consonant intrinsic F0 effects. _Language_. [[Preprint]](https://osf.io/preprints/psyarxiv/64nhs){:target="_blank"} [[OSF]](https://osf.io/ehs6d/){:target="_blank"}
 
 - Connie Ting and Yoonjung Kang. (2023). [The effect of habitual speech rate on speaker-specific processing in English stop voicing perception](https://journals.sagepub.com/doi/10.1177/00238309231188078){:target="_blank"}. _Language and Speech_.
 
@@ -32,7 +32,7 @@ permalink: /research/
 
 - *Capturing 'exempt' anaphors with local binding*. Talk at Montreal-Ottawa-Toronto-Hamilton Syntax Workshop, Toronto, Canada. August 2020. [[Handout]](MOTH2020_handout.pdf){:target="_blank"}
 
-- *The effect of habitual speech rate on speaker-specific processing in English stop voicing perception* (with Yoonjung Kang). Poster at ICPhS19, Melbourne, Australia. August 2019. [[Poster]](ICPhS19_poster.pdf) [[Proceedings Paper]](ICPhS19_VOT.pdf){:target="_blank"}
+- *The effect of habitual speech rate on speaker-specific processing in English stop voicing perception* (with Yoonjung Kang). Poster at ICPhS19, Melbourne, Australia. August 2019. [[Poster]](ICPhS19_poster.pdf){:target="_blank"} [[Proceedings Paper]](ICPhS19_VOT.pdf){:target="_blank"}
 
 ***
 
