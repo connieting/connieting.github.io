@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Papers
 
-- Connie Ting, Meghan Clayards, Morgan Sonderegger, and Michael McAuliffe. (Accepted). The cross-linguistic distribution of vowel and consonant intrinsic F0 effects. _Language_. [[Preprint]](https://osf.io/preprints/psyarxiv/64nhs) [[OSF]](https://osf.io/ehs6d/)
+- Connie Ting, Meghan Clayards, Morgan Sonderegger, and Michael McAuliffe. (Accepted). The cross-linguistic distribution of vowel and consonant intrinsic F0 effects. _Language_. [[Preprint]](https://osf.io/preprints/psyarxiv/64nhs){:target="_blank"} [[OSF]](https://osf.io/ehs6d/)
 
 - Connie Ting and Yoonjung Kang. (2023). [The effect of habitual speech rate on speaker-specific processing in English stop voicing perception](https://journals.sagepub.com/doi/10.1177/00238309231188078). _Language and Speech_.
 
