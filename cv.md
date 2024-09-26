@@ -4,5 +4,5 @@ title: CV
 permalink: /cv/
 ---
 
-<object data="../PDFs/ConnieTing_CV_jul2024.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../PDFs/ConnieTing_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
