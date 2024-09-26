@@ -7,7 +7,7 @@ permalink: /teaching/
 <br>
 <br>
 
-### McGill University
+### McGill University <br>
 
 #### Course Lecturer 
 LING330 Phonetics (Fall 2021)
@@ -20,7 +20,7 @@ LING330 Phonetics (Fall 2020) <br>
 LING350 Linguistic Aspects of Biligualism (Winter 2020, Grader) <br>
 <br>
 <br>
-### University of Toronto
+### University of Toronto <br>
 
 #### Teaching Assistant
 LINA01 Introduction to Linguistics (Fall 2018) <br>
