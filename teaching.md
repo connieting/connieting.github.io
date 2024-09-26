@@ -6,12 +6,14 @@ permalink: /teaching/
 
 <br>
 
-# Teaching Experience 
+## Teaching Experience 
+***
 
 ### McGill University 
 
 #### Course Lecturer 
 LING330 Phonetics (Fall 2021)
+<br>
 
 #### Teaching Assistant
 LING331 Phonology (Fall 2022) <br>
