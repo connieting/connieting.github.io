@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+<br>
+<br>
+
 ### Papers
 
 - Connie Ting and Meghan Clayards. (2024). [Perceptual compensation for vowel intrinsic f0 effects in native English speakers](https://doi.org/10.1121/10.0028310){:target="_blank"}. _JASA Express Letters_. [[OSF]](https://osf.io/4pfg7/){:target="_blank"}
