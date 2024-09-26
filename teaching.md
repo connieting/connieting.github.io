@@ -6,6 +6,8 @@ permalink: /teaching/
 
 <br>
 
+# Teaching Experience 
+
 ### McGill University 
 
 #### Course Lecturer 
