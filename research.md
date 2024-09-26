@@ -16,7 +16,7 @@ permalink: /research/
 
 ### Presentations  
 
-- *Cross-linguistic differences in the production and perception of consonant and vowel intrinsic F0 effects*. (with Meghan Clayards). Presented at LabPhon19, Seoul, Korea, June 2024. [[Poster]](LabPhon19_Poster.pdf){:target="_blank"}
+- *Cross-linguistic differences in the production and perception of consonant and vowel intrinsic F0 effects*. (with Meghan Clayards). Presented at LabPhon19, Seoul, Korea, June 2024. [[Poster]](PDFs/LabPhon19_Poster.pdf){:target="_blank"}
 
 - *Effects of speaker-specific rate on English stop voicing perception: local vs habitual influences*. (with Yoonjung Kang). Presented at MOTh, Montreal, Quebec, April 2024.
 
