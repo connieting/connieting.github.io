@@ -6,6 +6,8 @@ permalink: /research/
 
 ### Papers
 
+- Connie Ting and Meghan Clayards. (2024). [Perceptual compensation for vowel intrinsic f0 effects in native English speakers](https://doi.org/10.1121/10.0028310){:target="_blank"}. _JASA Express Letters_. [[OSF]](https://osf.io/4pfg7/){:target="_blank"}
+
 - Connie Ting, Meghan Clayards, Morgan Sonderegger, and Michael McAuliffe. (Accepted). The cross-linguistic distribution of vowel and consonant intrinsic F0 effects. _Language_. [[Preprint]](https://osf.io/preprints/psyarxiv/64nhs){:target="_blank"} [[OSF]](https://osf.io/ehs6d/){:target="_blank"}
 
 - Connie Ting and Yoonjung Kang. (2023). [The effect of habitual speech rate on speaker-specific processing in English stop voicing perception](https://journals.sagepub.com/doi/10.1177/00238309231188078){:target="_blank"}. _Language and Speech_.
